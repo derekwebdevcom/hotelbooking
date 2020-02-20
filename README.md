@@ -1,6 +1,6 @@
 # Hotel Booking UI Built with React
 
-![Final App](https://derekwebdev.com/gifs/hotel.gif)
+![Final App] (https://derekwebdev.com/gifs/hotel.gif)
 
 This project uses the following technologies:
 
