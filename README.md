@@ -10,7 +10,7 @@ This project uses the following technologies:
 
 ## Configuration
 -[Clone](https://github.com/derekwebdevcom/hotelbooking.git) or
--[Download Zip] (https://github.com/derekwebdevcom/hotelbooking/archive/master.zip)
+-[Download Zip](https://github.com/derekwebdevcom/hotelbooking/archive/master.zip)
 
 
 ## Quick Start
