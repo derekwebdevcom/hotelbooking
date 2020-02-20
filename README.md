@@ -11,7 +11,7 @@ This project uses the following technologies:
 - [Reactstrap](https://reactstrap.github.io/) for cross browser compatibility
 
 ## Configuration
--[Clone]
+-[Clone](https://github.com/derekwebdevcom/hotelbooking.git) or Download 
 
 
 ## Quick Start
