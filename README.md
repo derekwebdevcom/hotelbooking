@@ -1,6 +1,8 @@
 # Hotel Booking UI Built with React
 
-![Final App](https://derekwebdev.com/gifs/hotel.gif)
+-![Sample Gif](http://i.imgur.com/______.gif)
+
++<img src="/art/sample.gif?raw=true" width="200px">
 
 This project uses the following technologies:
 
