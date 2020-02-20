@@ -7,12 +7,11 @@
 This project uses the following technologies:
 
 - [React](https://reactjs.org) and [React Router](https://reacttraining.com/react-router/) for frontend
-- [HashRouter](https://www.npmjs.com/package/hash-router) and [Node](https://nodejs.org/en/) for the backend
-- [MongoDB](https://www.mongodb.com/) for the database
-- [Redux](https://redux.js.org/basics/usagewithreact) for state management between React components
+- [HashRouter](https://www.npmjs.com/package/hash-router) 
+- [Reactstrap](https://reactstrap.github.io/) for cross browser compatibility
 
 ## Configuration
-
+-[Clone]
 
 
 ## Quick Start
